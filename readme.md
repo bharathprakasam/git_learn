@@ -1,0 +1,1 @@
+write all the basis command on git 
